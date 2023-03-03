@@ -1,4 +1,4 @@
-This datasets (img files) contain the estimated the projected GDP of China
+This datasets (img files) contain the estimated the projected GDP of China (in million yuan)
 between 2014-2020 at pixel levels. The estimation was made using night time
 imagery and economic survey data. The associated reliability measure was also
 provided.
